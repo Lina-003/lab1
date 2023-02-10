@@ -1,0 +1,20 @@
+{
+  "name": "laboratorio1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turing-machine-js/library-binary-numbers": "^1.0.0",
+    "binary-machine": "^2.0.1",
+    "randomized-string": "^1.2.7"
+  },
+  "devDependencies": {
+    "color-convert": "^2.0.1"
+  }
+}
